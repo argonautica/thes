@@ -7,8 +7,8 @@ Thes is a python CLI application to find synonyms of a word in the terminal.
 in progress
 
 ## Usage
-
+Thes can be used as follows: 
 ```
-thes example # returns synonyms for "example"
-
+thes example 
 ```
+would return synonyms for the word "example".
