@@ -61,7 +61,7 @@ for arg in sys.argv:
        for a in result:
 
 
-           if temp < 5:
+           if temp < 6:
                str = str + " " + a
                temp = temp + 1
 
